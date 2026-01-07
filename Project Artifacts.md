@@ -4,7 +4,7 @@
 
 The full project is hosted on GitHub:
 
-- Repository link: https://github.com/ericaazhao/data-management-package
+- Repository link: https://github.com/ericazhaoxy/data-management-package-set
 
 ## 2. Submitted Files and Artifacts
 
